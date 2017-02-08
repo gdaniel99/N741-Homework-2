@@ -1,0 +1,19 @@
+---
+title: "Article Critique"
+author: "Gaea Daniel"
+date: "February 8, 2017"
+output:
+  word_document: default
+  html_document: default
+  pdf_document: default
+  github_document: default
+---
+
+  Samuels, et al. discuss the topic of using data extracted from the Electronic Health Record (EHR) for nursing research because as use of EHRs increase, opportunities for data mining increase, thereby creating favorable circumstances for nurse researchers to obtain data. However, this relatively new capability to acquire data sets is not without issues and concern for nurse researchers to be aware of. This topic is important because the increased use and advancing technology of the EHR has the potential to dramatically change the face of healthcare through research, but to maximize the potential, data must be carefully extracted, analyzed, and put into context for it to be the foundation of any research. As stated by Samuels et al., “The purpose of this article is to identify some of the major opportunities and challenges identified by a non-informatics nurse researcher when using data from the EHR” (2015).
+  The article discusses specific challenges such as EHR implementation, data presentation, and security of research data from the EHR. Technological differences like proprietary EHR brands and/or versions exist with EHR implementation. Because there is no standardization among documentation systems (EHRs), defining variables across systems and entities becomes difficult. Considering some entities still use paper charts in part or completely for documentation further complicates defining variables. Similar to EHR implementation, data presentation also presents issues with defining variables. In addition to the different structural locations of data amongst different EHR systems, finding unstructured data like narrative data and images often requires outside technological support. Also, data presentation does not put the data in context concerning relevance, importance, or meaning. As for the security challenge, HIPAA restricts nurse researchers from access data from the EHR at will. IRB approval and informed consent must be given before the researcher can proceed and the data must be de-identified, which also requires additional technologic assistance. 
+  The article discusses specific opportunities including big data and data mining. The capability to obtain large datasets from the EHR is positive for nursing research because relationships and correlations can be questioned and explored, and both structured and unstructured data can be used. Data mining allows for large datasets to be searched to find relationships that are more generalizable than small datasets used before data mining. Ultimately, health outcomes have the potential to be improved because this data can drive evidence-based change.
+  The authors do a good job of providing real-life examples and references from peer-reviewed journals as solid evidence to support their main arguments to fulfill their purpose. The implications of their findings are quite clear in that they are encouraging nurse researchers to move forward with the use of big data for nursing research. The authors acknowledges that big data is not without its challenges and promote interprofessional collaboration to find solutions. Improvements such as standardization are being made to support the use of big data. There may be some pushback from proprietary EHR brands about standardization as they try to hold on to their individuality. However, they should seek other means for maintaining their identity because it is more important and valuable for nurse researchers to obtain data to improve the health of the patients.
+
+## Reference
+
+Samuels, J. G., McGrath, R. J., Fetzer, S. J., Mittal, P., & Bourgoine, D. (2015). Using the Electronic Health Record in Nursing Research Challenges and Opportunities. Western journal of nursing research, 0193945915576778.
